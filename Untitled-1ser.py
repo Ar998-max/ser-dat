@@ -1,6 +1,6 @@
 # mongodb+srv://ashmitrajvansh70:<password>@cluster0.mbqicmt.mongodb.net/?retryWrites=true&w=majority
 # mongo cluster pass lKFH6ztUjrOQmYK0
-# AshmitRedmi@20192008 mongo pass
+
 from flask import Flask, request, jsonify
 import pymongo
 from pymongo import MongoClient
